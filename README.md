@@ -1,6 +1,6 @@
 # CoolCalcProgram
 I was in a snarky mood, so I made CoolCalc, the miserable arithmetic calculator that insults you at every usage.
-I've never distributed my programs before, so I guarantee it completely sucks.
+I've never distributed my programs before, so I guarantee it completely sucks compared to anything else on GitHub.
 
 To compile the source code, just type:
 gcc -Wall calc.c -o CoolCalc
