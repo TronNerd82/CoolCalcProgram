@@ -1,8 +1,6 @@
 # CoolCalcProgram
 I was in a snarky mood, so I made CoolCalc, the miserable arithmetic calculator that insults you at every usage.
-calc.c is the source code, and the CoolCalc file is a Linux executable made with gcc on a Raspberry Pi 4.
-I've never distributed my programs before, so I don't know if the CoolCalc executable will work on all machines,
-if not, the source code is here for you to mess around with.
+I've never distributed my programs before, so I guarantee it completely sucks.
 
 To compile the source code, just type:
 gcc -Wall calc.c -o CoolCalc
