@@ -31,7 +31,7 @@ int main() {
       printf("%.1lf / %.1lf = %.1lf\n", first, second, first / second);
       printf("Lets face it: you\'re only doing division because it\'s mildly more\nuber l33t than the other functions of this program,\nbut deep inside you know you\'ll never be good at any math beyond 4th grade\n");
       break;
-    /* This here is a handy-dandy little error message for when the user enters something other than one of the case constant,
+    /* This here is a handy-dandy little error message for when the user enters something other than one of the case constants,
     but you probably knew that already */
     default:
       printf("INVALID INPUT: USER IS A TWIT!\n");
