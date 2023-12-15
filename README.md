@@ -5,7 +5,7 @@ I've never distributed my programs before, so I guarantee it completely sucks co
 To compile the source code, just type:
 gcc -Wall calc.c -o CoolCalc
 
-Update: added a Makefile to save you 5 seconds of time.
+[Update: added a Makefile to save you 5 seconds of time.]
 
 You can also compile it however you do with clang, but I don't use clang so you're on your own.
 
