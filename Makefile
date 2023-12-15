@@ -1,2 +1,2 @@
 coolcalc: calc.c
-	gcc calc.c -o calc
+	gcc -Wall calc.c -o calc
