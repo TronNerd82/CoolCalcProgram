@@ -5,6 +5,8 @@ I've never distributed my programs before, so I guarantee it completely sucks co
 To compile the source code, just type:
 gcc -Wall calc.c -o CoolCalc
 
+Update: added a Makefile to save you 5 seconds of time.
+
 You can also compile it however you do with clang, but I don't use clang so you're on your own.
 
 I did my best to make CoolCalc look like a legit terminal program made by professionals at first (namely though the ASCII art logo and the fake company name)
