@@ -1,5 +1,6 @@
 #include <stdio.h>
-// This program is a basic arithmetic calculator written in C
+/* This absolutely terrible program is an painfully basic arithmetic calculator witten in C.
+But unless you were dropped as a baby, you probably already know that */
 int main() {
   printf("***** ***** ***** *     *****  ***  *     *****\n*     *   * *   * *     *     *   * *     *\n*     *   * *   * *     *     *   * *     *\n*     *   * *   * *     *     ***** *     *\n*     *   * *   * *     *     *   * *     *\n***** ***** ***** ***** ***** *   * ***** *****\n");
   printf ("           By LameCo, inc. (C) 2023  \n");
