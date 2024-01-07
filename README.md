@@ -9,9 +9,9 @@ gcc -Wall calc.c -o CoolCalc
 
 To use the Makefile, just type:
 
-sudo make
+  sudo make
 
-sudo make install
+  sudo make install
 
 [Update: as of Jan. 06, 2024, there is now a .deb package to save you 5 more seconds of time, with more package types to come]
 
