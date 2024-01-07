@@ -6,6 +6,11 @@ To compile the source code, just type:
 gcc -Wall calc.c -o CoolCalc
 
 [Update: added a Makefile to save you 5 seconds of time.]
+
+To use the Makefile, just type:
+sudo make
+sudo make install
+
 [Update: as of Jan. 06, 2024, there is now a .deb package to save you 5 more seconds of time, with more package types to come]
 
 You can also compile it however you do with clang, but I don't use clang so you're on your own.
